@@ -4,4 +4,5 @@
 #### - Analisi dell'impatto che ha la scelta dello spazio di rappresentazione (euclideo vs iperbolico)
 #### - Analisi dell'impatto che ha la scelta del tipo di modello (omogenei vs eterogenei)
 #### - Studio della coerenza biomedica dei dati utilizzati tramite inserimento dei nodi Gene al grafo già utilizzato, al fine di valutarne l'impatto nelle performance dei modelli
+### L'articolo scientifico che presenta tutto lo studio e le tecniche relative alla ricerca è [**qua**](https://github.com/moroa01/Tesi-magistrale/blob/main/Moretti_Andrea_Tesi.pdf)
 ### Il codice utilizzato per lo studio e l'implementazione di modelli è presente [**qua**](https://github.com/moroa01/Tesi-magistrale/tree/main/Code)
