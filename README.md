@@ -7,7 +7,7 @@
 
 ### Risultato finale tramite confronto della riduzione del gap di errore:
 <p align="center">
-  <img src="analisiFinale.png" width="60%"/>
+  <img src="analisiFinale.png" width="90%"/>
 </p>
 
 ### L'articolo scientifico che presenta tutto lo studio e le tecniche relative alla ricerca è [**qua**](https://github.com/moroa01/Tesi-magistrale/blob/main/Moretti_Andrea_Tesi.pdf)
