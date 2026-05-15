@@ -49,7 +49,7 @@ Comparison of the models through error-gap reduction analysis:
 # Resources
 
 - Scientific article and complete thesis:
-  [Moretti_Andrea_Tesi.pdf](https://github.com/moroa01/Tesi-magistrale/blob/main/Moretti_Andrea_Tesi.pdf)
+  [Master Thesis](https://github.com/moroa01/Tesi-magistrale/blob/main/Moretti_Andrea_Tesi.pdf)
 
 - Source code and model implementations:
   [Code Directory](https://github.com/moroa01/Tesi-magistrale/tree/main/Code)
@@ -75,7 +75,5 @@ Comparison of the models through error-gap reduction analysis:
 - Machine Learning
 - Knowledge Graphs
 - Hyperbolic Embeddings
-- Geometric Deep Learning
 - Biomedical AI
-- Computational Biology
 - Rare Disease Diagnosis
